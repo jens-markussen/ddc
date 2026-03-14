@@ -54,3 +54,42 @@ puts("  Hint: Maybe you should trace t"...  Hint: Maybe you should trace the cal
 )                               = 45
 +++ exited (status 0) +++
 jma@jens-pc:/mnt/c/workspace/ddc/2026/CALL_ME_MAYBE/call_me_maybe$
+
+
+
+
+
+jma@jens-pc:/mnt/c/workspace/ddc/2026/CALL_ME_MAYBE/call_me_maybe$  ./call_me_maybe
+
+  ╔══════════════════════════════════════════╗
+  ║      NoTech Security Terminal v2.4       ║
+  ║        Authentication Required           ║
+  ╚══════════════════════════════════════════╝
+
+  STATUS: 1 classified message waiting
+  CLEARANCE: Agent-level passphrase required
+
+  Enter passphrase: DDC{ltr4c3_my_l1br4ry_c4lls}
+
+  ══════════════════════════════════════════
+  [ACCESS GRANTED] Welcome back, Agent.
+  ══════════════════════════════════════════
+
+  Decrypting classified message...
+
+  ┌────────────────────────────────────────┐
+  │  FROM: Head of Security                │
+  │  RE: Operation Trace Route             │
+  │                                        │
+  │  Excellent work, rookie. You proved    │
+  │  that no secret is safe when you know  │
+  │  how to listen to what a program is    │
+  │  really saying.                        │
+  │                                        │
+  │  Every function call leaves a trace.   │
+  │  Never forget that.                    │
+  │                                        │
+  │  FLAG: DDC{ltr4c3_my_l1br4ry_c4lls}    │
+  └────────────────────────────────────────┘
+
+
