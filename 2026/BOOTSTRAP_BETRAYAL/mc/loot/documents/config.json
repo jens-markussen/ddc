@@ -1,0 +1,15 @@
+{
+  "database": {
+    "host": "db.internal",
+    "port": 5432,
+    "name": "app_prod"
+  },
+  "api": {
+    "endpoint": "https://api.example.cfire",
+    "timeout": 30
+  },
+  "logging": {
+    "level": "info",
+    "file": "/var/log/app.log"
+  }
+}

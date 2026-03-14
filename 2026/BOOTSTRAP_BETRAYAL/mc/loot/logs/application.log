@@ -1,0 +1,10 @@
+2023-03-15 10:23:45 [INFO] Application started
+2023-03-15 10:23:46 [INFO] Database connection established
+2023-03-15 10:24:12 [INFO] User login: admin
+2023-03-15 10:25:33 [WARN] High memory usage detected: 85%
+2023-03-15 10:26:01 [INFO] Backup job started
+2023-03-15 10:26:45 [INFO] Backup job completed successfully
+2023-03-15 10:30:22 [INFO] Scheduled task executed
+2023-03-15 10:35:10 [ERROR] Failed to connect to external API (timeout)
+2023-03-15 10:35:11 [INFO] Retrying connection...
+2023-03-15 10:35:15 [INFO] Connection restored

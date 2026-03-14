@@ -1,0 +1,5 @@
+id,username,email,created_at
+1,admin,admin@example.com,2023-01-15 10:00:00
+2,user1,user1@example.com,2023-02-01 14:30:00
+3,user2,user2@example.com,2023-02-15 09:15:00
+4,test_user,test@example.com,2023-03-01 16:45:00

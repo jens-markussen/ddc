@@ -1,0 +1,12 @@
+# Old configuration file - archived
+# Replaced by config.json on 2023-01-01
+
+database:
+  host: db.old.internal
+  port: 5432
+  
+api:
+  endpoint: https://old-api.example.cfire
+  
+logging:
+  level: debug
