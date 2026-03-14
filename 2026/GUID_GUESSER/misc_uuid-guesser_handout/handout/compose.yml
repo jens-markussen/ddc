@@ -1,0 +1,9 @@
+name: uuid-guesser
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "1337:1337"
+    restart: unless-stopped
